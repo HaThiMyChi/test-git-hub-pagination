@@ -5,3 +5,6 @@ chi 1
 chi 2
 tesst 3
 tesst4
+dev-----------------                                            merger feature                    merger feature.
+--------------------feature------------------------------------
+                                                                                feature2---------
